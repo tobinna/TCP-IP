@@ -1,0 +1,17 @@
+To run this code, You must have:
+    threading, time and socket enabled
+
+First, run the server and wait until it has started a connection and is listening
+
+Then, Set up your client.py and carer_client.py files in two different command lines
+
+press enter on both so that the client is the first connector, and the carer is the second
+
+Then click enger a few times on the client.py command line, and after, hit enter a few times on the 
+carer_client.py command window
+
+you should then be able to see all of the information on the server command line, the warnings sent to the 
+carer and patient in respective command windows, and you should be able to see the phone calling if you
+have asked to input your phone information
+
+Let me know if you want to connect it to your phone at tobinna@tcd.ie
